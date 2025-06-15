@@ -54,3 +54,9 @@ Shows how sentiment varies by state and call center location
 Calls per State Map:
 
 Interactive map showing geographical call distribution for state-level analysis
+
+#### Call Centre Performance Dashboard – October 2024
+
+![Image](https://github.com/aksharaanil-1/Call_Centre_Excel_Dashboard/blob/f7f4dc91629291716865c420abdddcf5b4eed7ae/Call_Centre_Report_SS.png)
+
+
